@@ -30,4 +30,4 @@ def Singup(request):
 
 def Login(request):
 
-    return render(request,'quote/login.html')
+    return render(request,'quote/login.html') 
